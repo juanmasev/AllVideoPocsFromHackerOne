@@ -1,7 +1,7 @@
 # AllPocsFromHackerOne
 
 ### Note
-If jxscout helped you find cool bugs, [consider buying me a coffee!](https://ko-fi.com/zeroc00i) ☕
+Please, [consider buying me a coffee!](https://ko-fi.com/zeroc00i) ☕
 
 Want to keep up with the latest in bug bounty, cybersecurity, and my ongoing studies? Feel free to join my Telegram channel (It's in Portuguese, but packed with English content!).
 
